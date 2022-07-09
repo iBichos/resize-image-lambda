@@ -1,0 +1,16 @@
+{
+  "name": "resize-image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "npm install --arch=x64 --platform=linux sharp"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1171.0",
+    "sharp": "^0.30.7"
+  }
+}
